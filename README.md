@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS, Data Warehouse**
 
-- 💬 Ask me about **Python, SQl, Tableau, Qlik**
+- 💬 Ask me about **Python, SQL, Tableau, Qlik**
 
 - 📫 How to reach me **flores.enc90@gmail.com**
 
