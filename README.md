@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/edgar flores encarnación" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edgar flores encarnación" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edgar-flores-encarnacion-358523150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edgar-flores-encarnacion-358523150" height="30" width="40" /></a>
 <a href="https://instagram.com/ed_encarnacion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ed_encarnacion" height="30" width="40" /></a>
 </p>
 
