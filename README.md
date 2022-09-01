@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, My name is Edgar</h1>
 <h3 align="center">I´m a Data Analyst</h3>
 
+- 🌱 I’m currently learning **AWS, Data Warehouse**
+
 - 💬 Ask me about **Python, SQl, Tableau, Qlik**
 
 - 📫 How to reach me **flores.enc90@gmail.com**
+
+- ⚡ Fun fact **I love calisthenics, videogames and pizza**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
